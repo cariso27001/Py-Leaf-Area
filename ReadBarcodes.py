@@ -25,6 +25,8 @@
 #             return 'NA'
 #     res = str(barcodedata[0].data)[2:-1]
 #     return res
+# Old code above
+
 
 from pyzxing import BarCodeReader
 import cv2
