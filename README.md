@@ -44,3 +44,5 @@ If the calibration performs poorly, plot the 1st and 4th, 2nd and 5th, and 3rd a
 
 ## Questions:
 If you have any questions about Easy leaf area, you can contact the author, Hsien Ming Easlon, at heaslon@gmail.com.  Make sure you include ‘easy leaf area’ in the subject line.
+
+If you have any questions about Py leaf area, you can simply open an issue on the GitHub repository.
