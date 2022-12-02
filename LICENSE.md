@@ -13,3 +13,4 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” 
 ### [Python 2](/License/Python2_License.txt)
 ### [Scipy](/License/Scipy_License.txt)
 ### [Numpy](/License/Numpy_License.txt)
+### [Program Icon](https://iconarchive.com/show/food-drink-icons-by-graphicloads/leaf-icon.html)
